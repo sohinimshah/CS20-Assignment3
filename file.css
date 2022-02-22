@@ -1,0 +1,11 @@
+setList {background-color: #EAD3FF; text-align: center;}
+setListHeader {color: white; font-size: 50px;}
+song {display: block; border-style: dotted; margin: 10px; text-align: center; color: grey; padding: 60px 0;}
+artist {display: block; font-size: 20px;}
+songTitle {display: block; font-size: 20px;}
+musicGenre {display: block; font-size: 20px;}
+yearReleased {display: block; font-size: 20px; padding-bottom: 50px;}
+artist:before {content: "Artist(s): "}
+songTitle:before {content: "Title: "}
+musicGenre:before {content: "Genre(s): "}
+yearReleased:before {content: "Year Released: "}

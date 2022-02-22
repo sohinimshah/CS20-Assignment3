@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "file.css" ?>
+<setList>
+    <setListHeader>Wedding Set List</setListHeader>
+<song>
+    <artist>Ashe, FINNEAS</artist>
+    <songTitle>Till Forever Falls Apart</songTitle>
+    <musicGenre>Pop</musicGenre>
+    <yearReleased>2021</yearReleased>
+</song>
+<song>
+    <artist>Haley Reinhart</artist>
+    <songTitle>Can't Help Falling In Love</songTitle>
+    <musicGenre>Pop</musicGenre>
+    <yearReleased>2016</yearReleased>
+</song>
+<song>
+    <artist>Lady A</artist>
+    <songTitle>Need You Now</songTitle>
+    <musicGenre>Country</musicGenre>
+    <yearReleased>2009</yearReleased>
+</song>
+<song>
+    <artist>Lana Del Rey</artist>
+    <songTitle>Video Games</songTitle>
+    <musicGenre>Indie Rock</musicGenre>
+    <yearReleased>2012</yearReleased>
+</song>
+<song>
+    <artist>Taylor Swift</artist>
+    <songTitle>Love Story</songTitle>
+    <musicGenre>Pop, Country</musicGenre>
+    <yearReleased>2008</yearReleased>
+</song>
+<song>
+    <artist>Kina Grannis</artist>
+    <songTitle>Dream a Little Dream of Me</songTitle>
+    <musicGenre>Pop</musicGenre>
+    <yearReleased>2019</yearReleased>
+</song>
+<song>
+    <artist>The Features</artist>
+    <songTitle>From Now On</songTitle>
+    <musicGenre>Rock</musicGenre>
+    <yearReleased>2013</yearReleased>
+</song>
+<song>
+    <artist>Of Monsters and Men</artist>
+    <songTitle>Little Talks</songTitle>
+    <musicGenre>Rock</musicGenre>
+    <yearReleased>2011</yearReleased>
+</song>
+<song>
+    <artist>BANNERS</artist>
+    <songTitle>Someone to You</songTitle>
+    <musicGenre>Alternative Rock, Indie Rock</musicGenre>
+    <yearReleased>2019</yearReleased>
+</song>
+<song>
+    <artist>Lauv</artist>
+    <songTitle>Paris in the Rain</songTitle>
+    <musicGenre>Pop</musicGenre>
+    <yearReleased>2018</yearReleased>
+</song>
+</setList>
